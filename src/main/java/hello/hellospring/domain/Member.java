@@ -1,6 +1,7 @@
 package hello.hellospring.domain;
 
 public class Member {
+    // Only Field and Get/Set
     private Long id; // 식별자
     private String name; // 이름
 
